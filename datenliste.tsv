@@ -1,5 +1,5 @@
-Datum	Thema	Bereich	Datenstand
-07.03.2019	Erwerbsleben	Arbeitslosigkeit	Feb 2019
-06.03.2019	Raum, Landschaft, Umwelt	Witterungsdaten	Feb 2019
-05.03.2019	Teuerung, Preise	Basler Index	Feb 2019
-05.03.2019	Erwerbsleben	Beschäftigte	Q4 2018
+Datum	Thema	ThemaLink	Bereich	Datenstand
+07.03.2019	Erwerbsleben	https://www.statistik.bs.ch/zahlen/tabellen/5-preise.html	Arbeitslosigkeit	Feb 2019
+06.03.2019	Raum, Landschaft, Umwelt	https://www.statistik.bs.ch/zahlen/tabellen/2-raum-landschaft-umwelt.html	Witterungsdaten	Feb 2019
+05.03.2019	Teuerung, Preise	https://www.statistik.bs.ch/zahlen/tabellen/5-preise.html	Basler Index	Feb 2019
+05.03.2019	Erwerbsleben	https://www.statistik.bs.ch/dam/jcr:f5d771fa-6a6c-4080-bc16-76ca61a38361/t03-2-11.xlsx	Beschäftigte	Q4 2018
